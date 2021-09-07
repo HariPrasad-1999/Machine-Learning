@@ -15,3 +15,6 @@ Data Quiz: <b><a href="https://archive.ics.uci.edu/ml/datasets/Appliances+energy
 
 A simple linear regression model estimates the relationship between two quantitative variables where one is referred to as the independent variable and the other the dependent variable. The independent variable (X) is used to predict and also called the predictor while the predicted variable is referred to as the response variable (Y) (e.g. finding the relationship between the amount of CO2 gas emitted and the number of trees cut down). The value of Y can be obtained from X by finding the line of best fit (regression line) with minimum error for the data points on a scatter plot for both variables. A simple linear regression can be represented as:
 
+<img src="https://github.com/HariPrasad-1999/Machine-Learning/blob/main/pics/github.PNG">
+
+The <b><a href="https://archive.ics.uci.edu/ml/datasets/Energy+efficiency">UCI Machine Learning Repository: Energy efficiency Data Set</a></b> is used in this module for better understandinging of the concepts. We select a sample of dataset and use the relative compactness column as the predictor and the heating load columns the response variable.
